@@ -33,6 +33,30 @@ body {
 	line-height: 1;
 }
 
+.connect {
+	text-align: center;
+ 	width: 80%;
+	margin: 3rem;
+}
+
+.connectBox {
+	display: flex;
+	justify-content: center;
+}
+
+.bioContainer {
+	display: flex;
+	justify-content: space-around;
+}
+
+.services {
+	text-align: left;
+}
+
+#portfolio {
+	text-align: center;
+}
+
 ol, ul {
 	list-style: none;
 }
